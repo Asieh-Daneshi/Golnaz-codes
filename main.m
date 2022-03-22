@@ -1,4 +1,5 @@
 clear all
+clc
 fs=128; % sampling frequency
 NumSubj=1;  %number of subject
 ch=32;  % number of channels
