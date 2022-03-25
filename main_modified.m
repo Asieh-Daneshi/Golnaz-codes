@@ -1,4 +1,7 @@
-clear all
+close all
+clear
+clc
+%%
 fs=2048; % sampling frequency
 NumSubj=12;  %number of subject
 ch_number=32;  % number of channels
